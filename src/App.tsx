@@ -18,7 +18,7 @@ const bannerCondensed =
 / /___ / /___ / ___ | ___/ // __  /_  _/ / / /_/ / 
 \____//_____//_/  |_|/____//_/ /_/(_)/___//_____/  
                                                    
-  Copyright © getYear(); Clash. Powered by ARH
+  Copyright © getYear(); Clash.
 
 const prompt = ">";
 
