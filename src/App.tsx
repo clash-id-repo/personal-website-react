@@ -6,19 +6,19 @@ const getYear = () => {
   return new Date().getFullYear();
 };
 
-const welcomeMessage = `Welcome to my site fellow humans and bots.
+const welcomeMessage = `Hi there!
 
 Type 'help' to view a list of available commands.
 `;
 
 const bannerCondensed =
-  "             _         __     _    _                 \n" +
-  " __ _ _ __ _(_)__ _   / _|___| |__| |_ __  __ _ _ _  \n" +
-  "/ _| '_/ _` | / _` | |  _/ -_) / _` | '  \\/ _` | ' \\ \n" +
-  "\\__|_| \\__,_|_\\__, | |_| \\___|_\\__,_|_|_|_\\__,_|_||_|\n " +
-  "             |___/                                  \n" +
-  "  \u00A9 " +
-  getYear();
+     ______ __     ___    _____  __  __    ____ ____ 
+  / ____// /    /   |  / ___/ / / / /   /  _// __ \
+ / /    / /    / /| |  \__ \ / /_/ /    / / / / / /
+/ /___ / /___ / ___ | ___/ // __  /_  _/ / / /_/ / 
+\____//_____//_/  |_|/____//_/ /_/(_)/___//_____/  
+                                                   
+  Copyright © getYear(); Clash. Powered by ARH
 
 const prompt = ">";
 
